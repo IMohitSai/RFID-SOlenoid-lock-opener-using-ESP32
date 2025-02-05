@@ -1,4 +1,4 @@
-# 🚀 Arduino RFID-Based Access Control System
+# 🚀 Arduino RFID - Based Access Control System
 
 This project is an **RFID-based access control system** using an **RFID reader (MFRC522)** and a **relay-controlled solenoid lock**. It allows only authorized RFID cards to unlock the system.
 
